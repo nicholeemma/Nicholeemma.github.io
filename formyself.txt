@@ -1,0 +1,11 @@
+How to publish:
+
+Tectia connect to 
+unix.andrew.cmu.edu
+with andrewId and password
+
+directory : www
+change file directly
+
+http://www.andrew.cmu.edu/server/publish.html
+enter andrewID and click publish
